@@ -1,0 +1,44 @@
+#socialCard{
+    max-width: 750px;
+    border-right: 10px;
+    /* margin-top: 10%; */
+}
+
+.header{
+    width: 100%;
+    background-color: #ffa003;
+}
+
+.header img{
+    width: 60px;
+    margin: 5px;
+}
+
+.header .title{
+    font-size: 3.5rem;
+    padding-left: 50px;
+    color: #fff;
+}
+
+.auther{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.auther .autherWrapper{
+    background-color: #fff;
+    padding: 7px 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.auther .autherWrapper h1{
+    margin: 0;
+    padding-top: 5px;
+    padding-right: 10px;
+    color: #ffa003;
+}
